@@ -1,3 +1,5 @@
+pool:
+  Final-pool
 variables:
   buildConfiguration: 'Release'
 
